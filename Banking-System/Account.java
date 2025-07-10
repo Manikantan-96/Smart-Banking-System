@@ -93,7 +93,7 @@ try {
 		amount-=withdrawAmount;
 		System.out.println("Successfully withdrew " + String.format("%.2f", withdrawAmount));
      System.out.println("Remaining balance is: " + String.format("%.2f", getAmount()));
-     transcationHistory.add("withdrew amount of" + String.format("%.2f", withdrawAmount));
+     transcationHistory.add("withdrew amount of: " + String.format("%.2f", withdrawAmount));
 	}
 }
 catch(InsufficientBalanceException e) {
@@ -108,7 +108,7 @@ public void deposit(Scanner sc) {
 		amount+=depositAmount;
 		System.out.println("Successfully deposited " + String.format("%.2f", depositAmount));
         System.out.println("your balance is: " + String.format("%.2f", getAmount()));
-        transcationHistory.add("deposited amount of"+String.format("%.2f", depositAmount));
+        transcationHistory.add("deposited amount of: "+String.format("%.2f", depositAmount));
 }
 @Override
 public void customerCare(Scanner sc) {
