@@ -45,20 +45,19 @@ java Mani
 
 ##  🧾 Project Structure
 
-.
-├── Mani.java                    # Main entry point
-├── Bank.java                   # Main logic and menu handling
-├── Account.java                # Abstract class for common account features
-├── SavingsAccount.java         # Savings account functionality
-├── FD_Account.java             # Fixed Deposit account
-├── AccountOperations.java      # Interface defining core operations
-├── Input.java                  # Handles user input and file I/O
-├── AccountType.java            # Enum for account types
-├── InvalidPasswordException.java
-├── InvalidAccountException.java
-├── InsufficientBalanceException.java
+.  
+├── Mani.java                    # Main entry point  
+├── Bank.java                    # Main logic and menu handling  
+├── Account.java                 # Abstract class for common account features  
+├── SavingsAccount.java         # Savings account functionality  
+├── FD_Account.java             # Fixed Deposit account  
+├── AccountOperations.java      # Interface defining core operations  
+├── Input.java                  # Handles user input and file I/O  
+├── AccountType.java            # Enum for account types  
+├── InvalidPasswordException.java  
+├── InvalidAccountException.java  
+├── InsufficientBalanceException.java  
 ├── storage.txt                 # File used to store serialized account data
-
 
 ---
 
