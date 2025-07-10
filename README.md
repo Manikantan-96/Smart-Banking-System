@@ -1,12 +1,12 @@
 ---
 
-#💳 Smart Bank Management System (Java Console Application)
+#  💳 Smart Bank Management System (Java Console Application)
 
 A feature-rich *console-based banking application* built using *Core Java*, designed to simulate basic banking operations such as account creation, login, deposits, withdrawals, transaction history, password recovery, and file-based data persistence.
 
 ---
 
-##🛠 Features
+##  🛠 Features
 
 - 🔐 *User Authentication* (Account number + password)
 - 📝 *Create Account* (Savings or Fixed Deposit)
@@ -20,14 +20,14 @@ A feature-rich *console-based banking application* built using *Core Java*, desi
 
 ---
 
-##🚀 Getting Started
+##  🚀 Getting Started
 
-###Prerequisites
+###  Prerequisites
 
 - Java JDK 8 or above
 - Any Java IDE (Eclipse, IntelliJ, VS Code) or command-line tools
 
-### How to Run
+###  How to Run
 
 1. *Clone or download* the repository.
 2. Compile all .java files:
@@ -43,7 +43,7 @@ java Mani
 
 ---
 
-🧾 Project Structure
+##  🧾 Project Structure
 
 .
 ├── Mani.java                    # Main entry point
@@ -62,7 +62,7 @@ java Mani
 
 ---
 
-🧠 Concepts Used
+##  🧠 Concepts Used
 
 🔁 Loops and Control Statements
 
@@ -84,7 +84,7 @@ java Mani
 
 ---
 
-🎯 Future Improvements
+##  🎯 Future Improvements
 
 ✅ JUnit test integration
 
@@ -99,9 +99,9 @@ java Mani
 
 ---
 
-🙌 Author
+##  🙌 Author
 
-Deevanooru Manikantan– Java Developer
+Deevanooru Manikantan – Java Developer
 
 💼 GitHub: Manikantan-96
 
@@ -111,11 +111,8 @@ Deevanooru Manikantan– Java Developer
 
 ---
 
-📄 License
+##  📄 License
 
 This project is for educational purposes. Feel free to use and modify for learning or interviews. Commercial use is not permitted without permission.
 
 ---
-
-
-
